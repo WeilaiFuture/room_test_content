@@ -1,2 +1,2 @@
-Hammer 源图放这里：`enter.vmap` / `load.vmap` / `wait.vmap`。
-编译产物进 `game/maps/*.vpk`，专服和上传只用 `game`。
+从 wait_game 拷来的 enter/load/wait 编译图（.vpk）。
+这台机器上没有 Hammer 源 .vmap。本地要用 Hammer 改图，把 .vmap 放这里再编进 game/maps。
